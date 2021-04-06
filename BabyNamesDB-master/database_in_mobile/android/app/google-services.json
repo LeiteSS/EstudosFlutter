@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "479621775894",
+    "firebase_url": "https://baby-names-app-db-3616d.firebaseio.com",
+    "project_id": "baby-names-app-db-3616d",
+    "storage_bucket": "baby-names-app-db-3616d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479621775894:android:fadfd4c75eef3f226a6b37",
+        "android_client_info": {
+          "package_name": "com.example.databaseinmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479621775894-rv55f92ui30r01quqn7tgdqm5s8v3mbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGOjBkKt-fYflaGF7hN4H9CkrmefIfwLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479621775894-rv55f92ui30r01quqn7tgdqm5s8v3mbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
